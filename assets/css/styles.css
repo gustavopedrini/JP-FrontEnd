@@ -26,6 +26,12 @@ p{
     background-color: rgb(189, 189, 189);
 }
 
+.menu{
+    list-style: none;
+    padding: 0;
+    display: flex;
+}
+
 li{
-    
+    padding-right: 10%;
 }
